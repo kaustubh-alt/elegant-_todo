@@ -18,6 +18,12 @@ Task Flow is a full-stack task management application designed with a focus on a
 - **Responsive Layout**: Works beautifully on desktop and mobile devices
 - **View Modes**: Toggle between List and Card layouts
 
+## ✨ ScreenShots
+
+![Screen Shot 1](./ssimage/one)
+![Screen Shot 2](./ssimage/two)
+![Screen Shot 3](./ssimage/three)
+
 ## ✨ Features
 
 ### Core Functionality
@@ -214,3 +220,4 @@ Built with ❤️ using modern web technologies
 ---
 
 **Enjoy managing your tasks with style!** ✨
+
