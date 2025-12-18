@@ -20,9 +20,9 @@ Task Flow is a full-stack task management application designed with a focus on a
 
 ## ✨ ScreenShots
 
-![Screen Shot 1](./ssimage/one)
-![Screen Shot 2](./ssimage/two)
-![Screen Shot 3](./ssimage/three)
+![Screen Shot 1](./ssimage/one.png)
+![Screen Shot 2](./ssimage/two.png)
+![Screen Shot 3](./ssimage/three.png)
 
 ## ✨ Features
 
@@ -220,4 +220,5 @@ Built with ❤️ using modern web technologies
 ---
 
 **Enjoy managing your tasks with style!** ✨
+
 
